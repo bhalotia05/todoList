@@ -3,4 +3,5 @@ Welcome to the To-Do List application! This project is a simple yet powerful too
 <br>
 <br>
 In order to view the website click on the given link
+https://bhalotia05.github.io/todoList/
 <a href="https://bhalotia05.github.io/todoList/"><strong>Demo</strong></a>
